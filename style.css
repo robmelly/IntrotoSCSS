@@ -1,5 +1,13 @@
+html,
 body {
-  height: 95vh;
-  background-color: #45a29e;
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+.header {
+  font-size: 5rem;
 }
 /*# sourceMappingURL=style.css.map */
