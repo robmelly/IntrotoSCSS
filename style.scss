@@ -1,4 +1,4 @@
-//Measurements px = monkey, rem AKA relative unit 1REM = 10 px, vw = viewport width, vh viewport height
+//Measurements  px = Monkey, rem AKA relative unit 1REM = 10px, vw = viewport width vh = viewport height
 
 $colors: (
   primary: #45a29e,
@@ -14,7 +14,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-size: 62.5%;
+  font-size: 62.5%; //1rem === 10px
 }
 .header {
   font-size: 5rem;
